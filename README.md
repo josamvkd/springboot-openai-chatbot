@@ -1,6 +1,6 @@
 # Spring Boot GPT Chatbot (PoC)
 
-A proof-of-concept REST API built with **Spring Boot** that connects to a GPT model (OpenAI API) to power a simple conversational chatbot.
+A PoC REST API built with **Spring Boot** that connects to a GPT model (OpenAI API) to power a simple conversational chatbot.
 
 ## Overview
 
